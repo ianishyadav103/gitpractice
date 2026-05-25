@@ -1,1 +1,2 @@
 wq
+on remote direclty
